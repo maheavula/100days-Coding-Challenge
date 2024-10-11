@@ -15,7 +15,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 ## Progress Tracker:
 | Day   | Problem Link | Solution Link | Status |
 |-------|--------------|---------------|--------|
-| Day 1 | [Problem 1](./Day1/README.md) | [Solution](./Day1/solution.py) | ✅ |
+| Day 1 | [Problem 1](./Day1/Day1.md) | [Solution](./Day1/Day1.md) | ✅ |
 
 ---
 
@@ -23,7 +23,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 I’ll be regularly updating this repo with new challenges and solutions. Feel free to explore the solutions and track my progress.
 
 #### 🔗 Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/avula-maheswar-reddy-0998a529a/)  
 - Weekly updates about the challenge!
 
 Let’s crack it together! 💻🔥
