@@ -34,3 +34,5 @@ elif q1 > 0 and q2 < 0:
     print("This point lies on the third Quadrant")
 elif q1 < 0 and q2 < 0:
     print("This point lies on the fourth Quadrant")
+else:
+    print("This point lies at origin")
