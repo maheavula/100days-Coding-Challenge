@@ -25,6 +25,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 8 | [Problem 8](./Day8/Day8.md) | [Solution](./Day8/Day8.md) | ✅ |
 | Day 9 | [Problem 9](./Day9/Day9.md) | [Solution](./Day9/Day9.md) | ✅ |
 | Day 10 | [Problem 10](./Day10/Day10.md) | [Solution](./Day10/Day10.md) | ✅ |
+| Day 11 | [Problem 11](./Day11/Day11.md) | [Solution](./Day11/Day11.md) | ✅ |
 
 
 ---
