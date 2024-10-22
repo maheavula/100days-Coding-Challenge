@@ -1,44 +1,31 @@
-# 🖥️ 100 Days of Code Challenge
+## Problem Statement 
+Write a program to find Sum of digits of a number
 
-Welcome to my **100 Days of Code Challenge**! 🎯 In this journey, I will be coding for at least an hour every day for 100 days. This repository tracks my daily progress with problem statements, solutions, and reflections. 
+Description
 
-Feel free to follow along and hold me accountable! 😊
+Get a number from user and then find the sum of the digits in the given number.
 
----
+E.g. let the number = 341
 
-## 📋 Rules & Goals
-1. Code for **at leasvery day** for the next 100 days.
-2. **Log progress daily** in this README.
-3. Explore new topics, **solve problems**, and **build projects**.
-4. Share insights, roadblocks, and lessons learned.
-5. Push all code and solutions to this repository.
+Sum of digits is 3+4+1= 8
 
----
+Input
 
-## 🗂️ Repository Structure
+4521
+
+Output
+
+12
+
+## Solution
+
+```python
+# Provide your solution here.
+def function(lst):
+    lst.sort()
+    return lst[1]
 
 
-Each day's folder contains:
-- **README.md**: Description of the problem statement and any notes/reflections.
-- **solution.py** (or relevant files): The solution or project built that day.
-
----
-
-## 🚀 Daily Progress Log
-
-| Day  | Date        | Problem / Project Title                   | Status      | Link                      |
-|------|-------------|--------------------------------------------|-------------|---------------------------|
-| 1    | YYYY-MM-DD  | [Problem Name](./Day1/README.md)          | ✅ Completed | [Solution](./Day01/)      |
-| 2    | YYYY-MM-DD  | [Problem Name](./Day02/README.md)          | ✅ Completed | [Solution](./Day02/)      |
-| 3    | YYYY-MM-DD  | [Problem Name](./Day03/README.md)          | 🔄 In Progress | [Solution](./Day03/)   |
-| ...  | ...         | ...                                        | ...         | ...                       |
-| 100  | YYYY-MM-DD  | [Final Challenge](./Day100/README.md)      | ❌ Pending  | [Solution](./Day100/)     |
-
----
-
-## 🛠️ How to Use This Repo
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/100-days-of-code.git
-   cd 100-days-of-code
+listt = input("enter a list of values = ").split()
+result = function(listt)
+print(f"{result}")
