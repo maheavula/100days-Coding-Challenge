@@ -7,7 +7,7 @@ Feel free to follow along and hold me accountable! 😊
 ---
 
 ## 📋 Rules & Goals
-1. Code for **at least 1 hour every day** for the next 100 days.
+1. Code for **at leasvery day** for the next 100 days.
 2. **Log progress daily** in this README.
 3. Explore new topics, **solve problems**, and **build projects**.
 4. Share insights, roadblocks, and lessons learned.
