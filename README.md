@@ -13,23 +13,25 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 
 
 ## Progress Tracker:
-| Day   | Problem Link | Solution Link | Status |
-|-------|--------------|---------------|--------|
-| Day 1 | [Problem 1](./Day1/Day1.md) | [Solution](./Day1/Day1.md) | ✅ |
-| Day 2 | [Problem 2](./Day2/Day2.md) | [Solution](./Day2/Day2.md) | ✅ |
-| Day 3 | [Problem 3](./Day3/Day3.md) | [Solution](./Day3/Day3.md) | ✅ |
-| Day 4 | [Problem 4](./Day4/Day4.md) | [Solution](./Day4/Day4.md) | ✅ |
-| Day 5 | [Problem 5](./Day5/Day5.md) | [Solution](./Day5/Day5.md) | ✅ |
-| Day 6 | [Problem 6](./Day6/Day6.md) | [Solution](./Day6/Day6.md) | ✅ |
-| Day 7 | [Problem 7](./Day7/Day7.md) | [Solution](./Day7/Day7.md) | ✅ |
-| Day 8 | [Problem 8](./Day8/Day8.md) | [Solution](./Day8/Day8.md) | ✅ |
-| Day 9 | [Problem 9](./Day9/Day9.md) | [Solution](./Day9/Day9.md) | ✅ |
-| Day 10 | [Problem 10](./Day10/Day10.md) | [Solution](./Day10/Day10.md) | ✅ |
-| Day 11 | [Problem 11](./Day11/Day11.md) | [Solution](./Day11/Day11.md) | ✅ |
-| Day 12 | [Problem 12](./Day12/Day12.md) | [Solution](./Day12/Day12.md) | ✅ |
-| Day 13 | [Problem 13](./Day13/Day13.md) | [Solution](./Day13/Day13.md) | ✅ |
-| Day 14 | [Problem 14](./Day14/Day14.md) | [Solution](./Day14/Day14.md) | ✅ |
-| Day 15 | [Problem 15](./Day15/Day15.md) | [Solution](./Day15/Day15.md) | ✅ |
+| Day   | Problem Description      | Problem Link                      | Solution Link                      | Status |
+|-------|--------------------------|----------------------------------|-----------------------------------|--------|
+| Day 1 | Vowel or Consonant       | [Problem 1](./Day1/Day1.md)      | [Solution](./Day1/Day1.md)        | ✅     |
+| Day 2 | Alphabet or Not          | [Problem 2](./Day2/Day2.md)      | [Solution](./Day2/Day2.md)        | ✅     |
+| Day 3 | ASCII Value of Character | [Problem 3](./Day3/Day3.md)      | [Solution](./Day3/Day3.md)        | ✅     |
+| Day 4 | Positive or Negative     | [Problem 4](./Day4/Day4.md)      | [Solution](./Day4/Day4.md)        | ✅     |
+| Day 5 | Even or Odd              | [Problem 5](./Day5/Day5.md)      | [Solution](./Day5/Day5.md)        | ✅     |
+| Day 6 | Quadrants of Coordinates | [Problem 6](./Day6/Day6.md)      | [Solution](./Day6/Day6.md)        | ✅     |
+| Day 7 | Days in a Month          | [Problem 7](./Day7/Day7.md)      | [Solution](./Day7/Day7.md)        | ✅     |
+| Day 8 | Roots of Quadratic Equation | [Problem 8](./Day8/Day8.md)     | [Solution](./Day8/Day8.md)        | ✅     |
+| Day 9 | Number of Digits in Integer | [Problem 9](./Day9/Day9.md)     | [Solution](./Day9/Day9.md)        | ✅     |
+| Day 10| Factorial of a Number       | [Problem 10](./Day10/Day10.md)  | [Solution](./Day10/Day10.md)      | ✅     |
+| Day 11| Fibonacci Series up to n    | [Problem 11](./Day11/Day11.md)  | [Solution](./Day11/Day11.md)      | ✅     |
+| Day 12| Sum of Digits of a Number   | [Problem 12](./Day12/Day12.md)  | [Solution](./Day12/Day12.md)      | ✅     |
+| Day 13| Sum of N Natural Numbers    | [Problem 13](./Day13/Day13.md)  | [Solution](./Day13/Day13.md)      | ✅     |
+| Day 14| Reverse a Number            | [Problem 14](./Day14/Day14.md)  | [Solution](./Day14/Day14.md)      | ✅     |
+| Day 15| Strong number or Not | [Problem 15](./Day15/Day15.md) | [Solution](./Day15/Day15.md) | ✅ |
+| Day 16| Perfect number or not  | [Problem 16](./Day16/Day16.md) | [Solution](./Day16/Day16.md) | ✅ |
+
 
 
 ---
