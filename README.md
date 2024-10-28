@@ -31,7 +31,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 14| Reverse a Number            | [Problem 14](./Day14/Day14.md)  | [Solution](./Day14/Day14.md)      | ✅     |
 | Day 15| Strong number or Not | [Problem 15](./Day15/Day15.md) | [Solution](./Day15/Day15.md) | ✅ |
 | Day 16| Perfect number or not  | [Problem 16](./Day16/Day16.md) | [Solution](./Day16/Day16.md) | ✅ |
-
+| Day 17 | Number of factors for a Num |  [Problem 17](./Day17/Day17.md) | [Solution](./Day17/Day17.md) | ✅ |
+| Day 18 | Adding two factors | [Problem 18](./Day18/Day18.md) | [Solution](./Day18/Day18.md) | ✅ |
 
 
 ---
