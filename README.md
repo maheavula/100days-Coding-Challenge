@@ -33,7 +33,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 16| Perfect number or not  | [Problem 16](./Day16/Day16.md) | [Solution](./Day16/Day16.md) | ✅ |
 | Day 17 | Number of factors for a Num |  [Problem 17](./Day17/Day17.md) | [Solution](./Day17/Day17.md) | ✅ |
 | Day 18 | Adding two factors | [Problem 18](./Day18/Day18.md) | [Solution](./Day18/Day18.md) | ✅ |
-
+| Day 19 | Armstrong Number or not | [Problem 19](./Day19/Day19.md) | [Solution](./Day19/Day19.md) | ✅ |
+| Day 20 | Prime number or not |  [Problem 20](./Day20/Day20.md) | [Solution](./Day20/Day20.md) | ✅ |
 
 ---
 
