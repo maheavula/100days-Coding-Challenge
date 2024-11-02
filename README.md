@@ -37,6 +37,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 20 | Prime number or not |  [Problem 20](./Day20/Day20.md) | [Solution](./Day20/Day20.md) | ✅ |
 | Day 21 | Palindrome or Not |  [Problem 21](./Day21/Day21.md) | [Solution](./Day21/Day21.md) | ✅ |
 | Day 22 | number as a sum of two prime numbers | [Problem 22](./Day22/Day22.md) | [Solution](./Day22/Day22.md) | ✅ |
+| Day 23 | Replace '0's with '1's |  [Problem 23](./Day23/Day23.md) | [Solution](./Day23/Day23.md) | ✅ |
 
 
 ---
