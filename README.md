@@ -40,6 +40,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 23 | Replace '0's with '1's |  [Problem 23](./Day23/Day23.md) | [Solution](./Day23/Day23.md) | ✅ |
 | Day 24 | Print Pyramid pattern | [Problem 24](./Day24/Day24.md) | [Solution](./Day24/Day24.md) | ✅ |
 | Day 25 | Area of Circle | [Problem 25](./Day25/Day25.md) | [Solution](./Day25/Day25.md) | ✅ |
+| Day 26 | Number of handshakes happened | [Problem 26](./Day26/Day26.md) | [Solution](./Day26/Day26.md) | ✅ |
+
 
 
 ---
