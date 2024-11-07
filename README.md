@@ -41,7 +41,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 24 | Print Pyramid pattern | [Problem 24](./Day24/Day24.md) | [Solution](./Day24/Day24.md) | ✅ |
 | Day 25 | Area of Circle | [Problem 25](./Day25/Day25.md) | [Solution](./Day25/Day25.md) | ✅ |
 | Day 26 | Number of handshakes happened | [Problem 26](./Day26/Day26.md) | [Solution](./Day26/Day26.md) | ✅ |
-
+| Day 27 | Double a num without arthmetic operator | [Problem 27](./Day27/Day27.md) | [Solution](./Day27/Day27.md) | ✅ |
 
 
 ---
