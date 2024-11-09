@@ -43,7 +43,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 26 | Number of handshakes happened | [Problem 26](./Day26/Day26.md) | [Solution](./Day26/Day26.md) | ✅ |
 | Day 27 | Double a num without arthmetic operator | [Problem 27](./Day27/Day27.md) | [Solution](./Day27/Day27.md) | ✅ |
 | Day 28 | Reverse a String | [Problem 28](./Day28/Day28.md) | [Solution](./Day28/Day28.md) | ✅ |
-
+| Day 29 | Concatenate two strings | [Problem 29](./Day29/Day29.md) | [Solution](./Day29/Day29.md) | ✅ |
 
 
 ---
