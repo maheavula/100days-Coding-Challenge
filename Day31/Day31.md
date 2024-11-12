@@ -16,16 +16,12 @@ hELLO
 ## Solution
 
 ```python
-# Provide your solution here.
+string = input("enter a string = ")
+new_str = ""
+for i in string:
+    if i.isupper():
+        new_str += i.lower()
+    elif i.islower():
+        new_str += i.upper()
 
-lst = list(map(str, input("enter list of numbers = ").split()))
-
-len_lst = []
-
-for i in lst:
-    if i == i[::-1]:
-        len_lst.append(len(i))
-
-ind = len_lst.index(max(len_lst))
-
-print(lst[ind])
+print(new_str)
