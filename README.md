@@ -46,6 +46,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 29 | Concatenate two strings | [Problem 29](./Day29/Day29.md) | [Solution](./Day29/Day29.md) | ✅ |
 | Day 30 | Find len of string without len() | [Problem 30](./Day30/Day30.md) | [Solution](./Day30/Day30.md) | ✅ |
 | Day 31 | Toggle each character in a string | [Problem 31](./Day31/Day31.md) | [Solution](./Day31/Day31.md) | ✅ |
+| Day 32 | Removing ovewls from string | [Problem 32](./Day32/Day32.md) | [Solution](./Day32/Day32.md) | ✅ |
+
 
 
 ---
