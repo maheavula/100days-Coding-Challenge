@@ -48,6 +48,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 31 | Toggle each character in a string | [Problem 31](./Day31/Day31.md) | [Solution](./Day31/Day31.md) | ✅ |
 | Day 32 | Removing ovewls from string | [Problem 32](./Day32/Day32.md) | [Solution](./Day32/Day32.md) | ✅ |
 | Day 33 | Palindrome of a string | [Problem 33](./Day33/Day33.md) | [Solution](./Day33/Day33.md) | ✅ |
+| Day 34 |  Remove brackets from an algebraic expression| [Problem 34](./Day34/Day34.md) | [Solution](./Day34/Day34.md) | ✅ |
 
 
 ---
