@@ -52,6 +52,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 35 | Count the sum of numbers in a string | [Problem 35](./Day35/Day35.md) | [Solution](./Day35/Day35.md) | ✅ |
 | Day 36 | Capitalize the first and last letter of each word of a string | [Problem 36](./Day36/Day36.md) | [Solution](./Day36/Day36.md) | ✅ |
 | Day 37 | calculate the Frequency of characters in a string | [Problem 37](./Day37/Day37.md) | [Solution](./Day37/Day37.md) | ✅ |
+| Day 38 | print Non-repeating characters in a string | [Problem 38](./Day38/Day38.md) | [Solution](./Day38/Day38.md) | ✅ |
 
 
 ---
