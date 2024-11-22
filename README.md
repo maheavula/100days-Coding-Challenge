@@ -54,6 +54,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 37 | calculate the Frequency of characters in a string | [Problem 37](./Day37/Day37.md) | [Solution](./Day37/Day37.md) | ✅ |
 | Day 38 | print Non-repeating characters in a string | [Problem 38](./Day38/Day38.md) | [Solution](./Day38/Day38.md) | ✅ |
 | Day 39 | check if two strings are Anagram or not | [Problem 39](./Day39/Day39.md) | [Solution](./Day39/Day39.md) | ✅ |
+| Day 40 | Replace substring in a string | [Problem 40](./Day40/Day40.md) | [Solution](./Day40/Day40.md) | ✅ |
 
 
 ---
