@@ -55,6 +55,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 38 | print Non-repeating characters in a string | [Problem 38](./Day38/Day38.md) | [Solution](./Day38/Day38.md) | ✅ |
 | Day 39 | check if two strings are Anagram or not | [Problem 39](./Day39/Day39.md) | [Solution](./Day39/Day39.md) | ✅ |
 | Day 40 | Replace substring in a string | [Problem 40](./Day40/Day40.md) | [Solution](./Day40/Day40.md) | ✅ |
+| Day 41 | Check if two strings match where one string contains wildcard characters | [Problem 41](./Day41/Day41.md) | [Solution](./Day41/Day41.md) | ✅ |
 
 
 ---
