@@ -59,6 +59,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 42 | check if two arrays are the same or not | [Problem 42](./Day42/Day42.md) | [Solution](./Day42/Day42.md) | ✅ |
 | Day 43 | to find the array type | [Problem 43](./Day43/Day43.md) | [Solution](./Day43/Day43.md) | ✅ |
 | Day 44 | find number of even and odd elements in an array| [Problem 44](./Day44/Day44.md) | [Solution](./Day44/Day44.md) | ✅ |
+| Day 45 | find smallest and largest element in an array | [Problem 45](./Day45/Day45.md) | [Solution](./Day45/Day45.md) | ✅ |
 
 
 ---
