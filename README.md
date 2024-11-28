@@ -60,6 +60,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 43 | to find the array type | [Problem 43](./Day43/Day43.md) | [Solution](./Day43/Day43.md) | ✅ |
 | Day 44 | find number of even and odd elements in an array| [Problem 44](./Day44/Day44.md) | [Solution](./Day44/Day44.md) | ✅ |
 | Day 45 | find smallest and largest element in an array | [Problem 45](./Day45/Day45.md) | [Solution](./Day45/Day45.md) | ✅ |
+| Day 46 | to find sum of elements in an array | [Problem 46](./Day46/Day46.md) | [Solution](./Day46/Day46.md) | ✅ |
 
 
 ---
