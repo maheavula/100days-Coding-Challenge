@@ -62,6 +62,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 45 | find smallest and largest element in an array | [Problem 45](./Day45/Day45.md) | [Solution](./Day45/Day45.md) | ✅ |
 | Day 46 | to find sum of elements in an array | [Problem 46](./Day46/Day46.md) | [Solution](./Day46/Day46.md) | ✅ |
 | Day 47 | to find longest palindrome in an array | [Problem 47](./Day47/Day47.md) | [Solution](./Day47/Day47.md) | ✅ |
+| Day 48 |  remove duplicate elements in an array | [Problem 48](./Day48/Day48.md) | [Solution](./Day48/Day48.md) | ✅ |
 
 
 
