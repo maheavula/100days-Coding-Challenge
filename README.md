@@ -64,6 +64,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 47 | to find longest palindrome in an array | [Problem 47](./Day47/Day47.md) | [Solution](./Day47/Day47.md) | ✅ |
 | Day 48 |  remove duplicate elements in an array | [Problem 48](./Day48/Day48.md) | [Solution](./Day48/Day48.md) | ✅ |
 | Day 49 | the minimum scalar product (Dot product) of 2 vectors. | [Problem 49](./Day49/Day49.md) | [Solution](./Day49/Day49.md) | ✅ |
+| Day 50 | to find sum of positive square elements in the array. | [Problem 50](./Day50/Day50.md) | [Solution](./Day50/Day50.md) | ✅ |
 
 ---
 
