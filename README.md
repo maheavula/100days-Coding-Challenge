@@ -65,6 +65,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 48 |  remove duplicate elements in an array | [Problem 48](./Day48/Day48.md) | [Solution](./Day48/Day48.md) | ✅ |
 | Day 49 | the minimum scalar product (Dot product) of 2 vectors. | [Problem 49](./Day49/Day49.md) | [Solution](./Day49/Day49.md) | ✅ |
 | Day 50 | to find sum of positive square elements in the array. | [Problem 50](./Day50/Day50.md) | [Solution](./Day50/Day50.md) | ✅ |
+| Day 51 |  a program to sort the array | [Problem 51](./Day51/Day51.md) | [Solution](./Day51/Day51.md) | ✅ |
 
 ---
 
