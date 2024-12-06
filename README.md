@@ -68,6 +68,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 51 | a program to sort the array | [Problem 51](./Day51/Day51.md) | [Solution](./Day51/Day51.md) | ✅ |
 | Day 52 | a program to reverse the array | [Problem 52](./Day52/Day52.md) | [Solution](./Day52/Day52.md) | ✅ |
 | Day 53 | find maximum product subarray in a given array | [Problem 53](./Day53/Day53.md) | [Solution](./Day53/Day53.md) | ✅ |
+| Day 54 | to find whether Arrays are disjoint or not | [Problem 54](./Day54/Day54.md) | [Solution](./Day54/Day54.md) | ✅ |
 
 ---
 
