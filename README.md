@@ -70,6 +70,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 53 | find maximum product subarray in a given array | [Problem 53](./Day53/Day53.md) | [Solution](./Day53/Day53.md) | ✅ |
 | Day 54 | to find whether Arrays are disjoint or not | [Problem 54](./Day54/Day54.md) | [Solution](./Day54/Day54.md) | ✅ |
 | Day 55 | the sum of maximum scalar product (Dot product) of 2 vectors. | [Problem 55](./Day55/Day55.md) | [Solution](./Day55/Day55.md) | ✅ |
+| Day 56 | find whether the numbers of an array be made equal | [Problem 56](./Day56/Day56.md) | [Solution](./Day56/Day56.md) | ✅ |
 
 ---
 
