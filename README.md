@@ -74,6 +74,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 57 | Pass or Fail | [Problem 57](./Day57/Day57.md) | [Solution](./Day57/Day57.md) | ✅ |
 | Day 58 | Bucket Filling | [Problem 58](./Day58/Day58.md) | [Solution](./Day58/Day58.md) | ✅ |
 | Day 59 | Body Mass Index | [Problem 59](./Day59/Day59.md) | [Solution](./Day59/Day59.md) | ✅ |
+| Day 60 | Good Weather | [Problem 60](./Day60/Day60.md) | [Solution](./Day60/Day60.md) | ✅ |
 
 
 ---
