@@ -75,7 +75,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 58 | Bucket Filling | [Problem 58](./Day58/Day58.md) | [Solution](./Day58/Day58.md) | ✅ |
 | Day 59 | Body Mass Index | [Problem 59](./Day59/Day59.md) | [Solution](./Day59/Day59.md) | ✅ |
 | Day 60 | Good Weather | [Problem 60](./Day60/Day60.md) | [Solution](./Day60/Day60.md) | ✅ |
-| Day 61 | [Problem 61](./Day61/Day61.md) | [Solution](./Day61/Day61.md) | ✅ |
+| Day 61 | Chess Format | [Problem 61](./Day61/Day61.md) | [Solution](./Day61/Day61.md) | ✅ |
+| Day 62 | Gold Mining | [Problem 62](./Day62/Day62.md) | [Solution](./Day62/Day62.md) | ✅ |
 
 
 ---
