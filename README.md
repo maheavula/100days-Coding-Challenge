@@ -77,7 +77,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 60 | Good Weather | [Problem 60](./Day60/Day60.md) | [Solution](./Day60/Day60.md) | ✅ |
 | Day 61 | Chess Format | [Problem 61](./Day61/Day61.md) | [Solution](./Day61/Day61.md) | ✅ |
 | Day 62 | Gold Mining | [Problem 62](./Day62/Day62.md) | [Solution](./Day62/Day62.md) | ✅ |
-| Day 63 | [Problem 63](./Day63/Day63.md) | [Solution](./Day63/Day63.md) | ✅ |
+| Day 63 | Balancing Weight | [Problem 63](./Day63/Day63.md) | [Solution](./Day63/Day63.md) | ✅ |
+| Day 64 | Amit and Feedback | [Problem 64](./Day64/Day64.md) | [Solution](./Day64/Day64.md) | ✅ |
 
 
 ---
