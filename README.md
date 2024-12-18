@@ -79,6 +79,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 62 | Gold Mining | [Problem 62](./Day62/Day62.md) | [Solution](./Day62/Day62.md) | ✅ |
 | Day 63 | Balancing Weight | [Problem 63](./Day63/Day63.md) | [Solution](./Day63/Day63.md) | ✅ |
 | Day 64 | Amit and Feedback | [Problem 64](./Day64/Day64.md) | [Solution](./Day64/Day64.md) | ✅ |
+| Day 65 | New Tablet | [Problem 65](./Day65/Day65.md) | [Solution](./Day65/Day65.md) | ✅ |
+
 
 
 ---
