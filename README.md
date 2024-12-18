@@ -80,6 +80,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 63 | Balancing Weight | [Problem 63](./Day63/Day63.md) | [Solution](./Day63/Day63.md) | ✅ |
 | Day 64 | Amit and Feedback | [Problem 64](./Day64/Day64.md) | [Solution](./Day64/Day64.md) | ✅ |
 | Day 65 | New Tablet | [Problem 65](./Day65/Day65.md) | [Solution](./Day65/Day65.md) | ✅ |
+| Day 66 | Palindromic substrings | [Problem 66](./Day66/Day66.md) | [Solution](./Day66/Day66.md) | ✅ |
 
 
 
