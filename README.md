@@ -81,6 +81,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 64 | Amit and Feedback | [Problem 64](./Day64/Day64.md) | [Solution](./Day64/Day64.md) | ✅ |
 | Day 65 | New Tablet | [Problem 65](./Day65/Day65.md) | [Solution](./Day65/Day65.md) | ✅ |
 | Day 66 | Palindromic substrings | [Problem 66](./Day66/Day66.md) | [Solution](./Day66/Day66.md) | ✅ |
+| Day 67 | Bricks Breaking | [Problem 67](./Day67/Day67.md) | [Solution](./Day67/Day67.md) | ✅ |
 
 
 
