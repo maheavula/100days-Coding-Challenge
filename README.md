@@ -82,6 +82,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 65 | New Tablet | [Problem 65](./Day65/Day65.md) | [Solution](./Day65/Day65.md) | ✅ |
 | Day 66 | Palindromic substrings | [Problem 66](./Day66/Day66.md) | [Solution](./Day66/Day66.md) | ✅ |
 | Day 67 | Bricks Breaking | [Problem 67](./Day67/Day67.md) | [Solution](./Day67/Day67.md) | ✅ |
+| Day 68 | you will be given queries. Each query is of one of the following three types | [Problem 68](./Day68/Day68.md) | [Solution](./Day68/Day68.md) | ✅ |
 
 
 
