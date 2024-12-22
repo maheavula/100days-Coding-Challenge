@@ -84,6 +84,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 67 | Bricks Breaking | [Problem 67](./Day67/Day67.md) | [Solution](./Day67/Day67.md) | ✅ |
 | Day 68 | you will be given queries. Each query is of one of the following three types | [Problem 68](./Day68/Day68.md) | [Solution](./Day68/Day68.md) | ✅ |
 | Day 69 | simple Multilevel inheritence concept | [Problem 69](./Day69/Day69.md) | [Solution](./Day69/Day69.md) | ✅ |
+| Day 70 | rotate the array by one position in clock-wise direction. | [Problem 70](./Day70/Day70.md) | [Solution](./Day70/Day70.md) | ✅ |
 
 
 
