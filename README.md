@@ -86,7 +86,8 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 69 | simple Multilevel inheritence concept | [Problem 69](./Day69/Day69.md) | [Solution](./Day69/Day69.md) | ✅ |
 | Day 70 | rotate the array by one position in clock-wise direction. | [Problem 70](./Day70/Day70.md) | [Solution](./Day70/Day70.md) | ✅ |
 | Day 71 | Find the number of students who will boast. | [Problem 71](./Day71/Day71.md) | [Solution](./Day71/Day71.md) | ✅ |
-| Day 72 |  you will have to implement a simple editor | [Problem 72](./Day72/Day72.md) | [Solution](./Day72/Day72.md) | ✅ |
+| Day 72 | you will have to implement a simple editor | [Problem 72](./Day72/Day72.md) | [Solution](./Day72/Day72.md) | ✅ |
+| Day 73 | A string is called boring if all the characters of the string are same. | [Problem 73](./Day73/Day73.md) | [Solution](./Day73/Day73.md) | ✅ |
 
 
 
