@@ -89,8 +89,7 @@ I have embarked on this journey with **TalentBattle**, where I will solve **one 
 | Day 72 | you will have to implement a simple editor | [Problem 72](./Day72/Day72.md) | [Solution](./Day72/Day72.md) | ✅ |
 | Day 73 | A string is called boring if all the characters of the string are same. | [Problem 73](./Day73/Day73.md) | [Solution](./Day73/Day73.md) | ✅ |
 | Day 74 | Find the minimum number of 1×1 tiles you have to use to fill the grid. | [Problem 74](./Day74/Day74.md) | [Solution](./Day74/Day74.md) | ✅ |
-
-
+| Day 75 | Can you eat the complete candy? | [Problem 75](./Day75/Day75.md) | [Solution](./Day75/Day75.md) | ✅ |
 
 
 ---
